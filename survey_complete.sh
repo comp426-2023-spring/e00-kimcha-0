@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE=anxious lobster subway roti 9a347a
+EXAMCODE=737277184
 
 echo ${EXAMCODE}
